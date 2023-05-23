@@ -1,5 +1,5 @@
 {
-  "name": "dynamodb-localhost",
+  "name": "@akibrk/dynamodb-localhost",
   "version": "0.0.9",
   "engines": {
     "node": ">=4.0"
